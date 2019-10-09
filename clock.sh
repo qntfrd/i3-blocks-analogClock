@@ -36,4 +36,4 @@ if [[ $min -eq 60 ]] ; then
   min=0
 fi
 
-echo -e `date '+📅 %Y-%m-%d'` ${face[$((hou % 12))$min]} `date '+%H:%M'`
+echo -e `date '+w%V 📅 %Y-%m-%d'` ${face[$((hou % 12))$min]} `date '+%H:%M'`
