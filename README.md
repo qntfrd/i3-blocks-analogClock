@@ -1,7 +1,7 @@
 Displays the current date time like so
 
 ```bash
-📅 2019-05-10 🕖 07:55
+w42 📅 2019-05-10 🕖 07:55
 ```
 
 ## Usage
